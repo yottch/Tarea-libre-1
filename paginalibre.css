@@ -1,1 +1,9 @@
-
+.pequeña {
+    width: 100px;
+    height: 150px;
+   }
+   
+   .gigante{
+    width: 500px;
+    height: 350px;
+   }
